@@ -1,7 +1,7 @@
-# Reverse-Text-Processor
+# Reverse Text Processor
 This C++ project is a versatile utility for processing and reversing text data. It reads input from a file, filters and transforms the text, and then generates a reversed version of the text along with useful statistics.
 
-Features:
+## **Features**
 
 Text Processing: The program efficiently filters and processes text data, excluding non-alphabetical characters and handling apostrophes within words.
 
@@ -13,7 +13,7 @@ User Interaction: A user-friendly menu allows users to choose between processing
 
 Output Logging: Processed data is logged to an output file for further analysis or reference.
 
-How to Use:
+## **How to Use**
 
 Compile and run the C++ program.
 Choose the "Print Reverse" option from the menu.
