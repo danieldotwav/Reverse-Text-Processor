@@ -1,0 +1,17 @@
+Input                                                             Reversed                                                          
+YES!!! you can dance!                                             ecnadnacuoysey                                                    
+Matching cover pAGE, header, and sidebar.                         rabedisdnaredaehegaprevocgnihctam                                 
+cat                                                               tac                                                               
+hello@123                                                         olleh                                                             
+apple banana cherry                                               yrrehcananabelppa                                                 
+AbCdEfGhIjKlMnOpQrStUvWxYz                                        zyxwvutsrqponmlkjihgfedcba                                        
+a                                                                 a                                                                 
+   123   abc                                                      cba                                                               
+lets'sagooo                                                       stel                                                              
+I'm okay M'lady                                                   myakoi                                                            
+Shouldn't've 'om'                                                 ndluohs                                                           
+&invalid!@characters#                                             sretcarahcdilavni                                                 
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklm mlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcba 
+
+Total Lines In Data File: 16
+Total Lines Processed: 13
